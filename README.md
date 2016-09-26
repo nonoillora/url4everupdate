@@ -1,5 +1,5 @@
 # url4everupdate
-keep your url 4ever updated with two languages on your website
-this repository was created to update the url from our website* with multi-language
+#this repository was created to update the url from our website* with multi-language
+#require Jquery and two ids on HTML. You can modify this function to adapt to his own site. I only use two language on this function.
 
-*: The website should be a landing
+#*: The website should be a landing
